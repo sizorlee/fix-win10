@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can upload to GitHub.
-
----
-
 # 🛠️ Fix: DNS Server Not Responding (Windows 10)
 
 This guide helps resolve the error:
@@ -166,19 +162,6 @@ After applying these steps:
 - DNS should respond
 - Internet access restored
 - No driver reinstallation required
-
----
-
-# 📄 License
-
-MIT License – Free to use and modify.
-
----
-
-If you'd like, I can also create:
-- ✅ A more technical version
-- ✅ A beginner-friendly version
-- ✅ A troubleshooting flowchart version
 - ✅ Add screenshots section
 - ✅ Convert it into a troubleshooting repository structure
 
